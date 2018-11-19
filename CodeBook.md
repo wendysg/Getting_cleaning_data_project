@@ -1,10 +1,10 @@
 This code book summarizes the resulting data fields in tidydata.txt.
 
-Identifiers
-• subject - The ID of the test subject
+Identifiers <br>
+• subject - The ID of the test subject<br>
 • activity - The type of activity performed when the corresponding measurements were taken
 
-Measurements
+Measurements <br>
 • "TimeBodyAccelerometerMean()-X"                    
 • "TimeBodyAccelerometerMean()-Y"                    
 • "TimeBodyAccelerometerMean()-Z"                    
@@ -77,7 +77,7 @@ Measurements
 • "FrequencyBodyAccelerometerMagnitudeMeanFreq()"    
 • "FrequencyBodyAccelerometerJerkMagnitudeMean()"    
 • "FrequencyBodyAccelerometerJerkMagnitudeSTD()"     
-• "FrequencyBodyAccelerometerJerkMagnitudeMeanFreq()"
+• "FrequencyBodyAccelerometerJerkMagnitudeMeanFreq()" <br>
 • "FrequencyBodyGyroscopeMagnitudeMean()"            
 • "FrequencyBodyGyroscopeMagnitudeSTD()"             
 • "FrequencyBodyGyroscopeMagnitudeMeanFreq()"        
@@ -85,10 +85,10 @@ Measurements
 • "FrequencyBodyGyroscopeJerkMagnitudeSTD()"         
 • "FrequencyBodyGyroscopeJerkMagnitudeMeanFreq()"    
 
-Activity Labels
-• WALKING: subject was walking during the test
-• WALKING_UPSTAIRS: subject was walking up a staircase during the test
-• WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
-• SITTING: subject was sitting during the test
-• STANDING: subject was standing during the test
-• LAYING: subject was laying down during the test
+Activity Labels <br>
+• WALKING: subject was walking during the test <br>
+• WALKING_UPSTAIRS: subject was walking up a staircase during the test <br>
+• WALKING_DOWNSTAIRS: subject was walking down a staircase during the test <br>
+• SITTING: subject was sitting during the test <br>
+• STANDING: subject was standing during the test <br>
+• LAYING: subject was laying down during the test <br>
